@@ -1,4 +1,4 @@
-## 📊 SHLN Dashboard — Halal Product Certification (International)
+## SHLN Dashboard — Halal Product Certification (International)
 
 This project presents an interactive dashboard analyzing internationally certified halal products entering Indonesia, developed using Tableau.
 
@@ -6,14 +6,14 @@ The dashboard provides a comprehensive overview of the **Sertifikasi Halal Luar 
 
 ![Dashboard Preview](assets/dashboard.png)
 
-### 🔍 Key Features
+### Key Features
 
 * Country of origin analysis for imported halal products
 * Product category distribution
 * Certification and registration status tracking
 * Importer-level insights
 
-### 🌍 Dashboard Access
+### Dashboard Access
 
 👉 https://public.tableau.com/app/profile/rowahul.muslim/viz/SHLN_Dashboard/Dashboard3
 
